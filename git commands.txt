@@ -1,0 +1,16 @@
+git --version : Check the version of git installed on system
+
+git status
+
+git log : Gives the details about the commits done in this repo
+
+git diff SHA1_key1 SHA1_key2 : gives the difference between two commits
+
+git clone: Clone the contents of an entire repository, along with history into other system
+
+git config --global color.ui auto : Displays the config in colors (red for del, green for add)
+
+git checkout - Set the specific commit in place of the current commit
+
+git add : Add files manually to the staging area, which will later be commited
+
